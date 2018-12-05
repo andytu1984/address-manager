@@ -21,7 +21,7 @@ public class GetAllBusinessPartnersCommand {
     }
 
     public List<BusinessPartner> execute() throws Exception {
-        return service.;
+return null;
     }
 
 }
